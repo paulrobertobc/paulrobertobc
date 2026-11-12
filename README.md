@@ -1,16 +1,50 @@
-## Hi there 👋
-
-<!--
-**paulrobertobc/paulrobertobc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                                          
+                                      xxxxXXXXXXXx                                                  
+                                    +xXX$&&&&&&&&&&&$$                                              
+                              XXXXXXXX$&&&&&&&&&&&&&&&&$$                                           
+                           XXX$$&&&&&&&&&&&&&&&&&&&&&&&&&XXx                                        
+                         $$$$&&&&&&&&&&&&$&&&&&&&&&&&&&&&$$$X                                       
+                       X$$&&&&&&&&&&&&$$XxxX$$&&&&&&&&&&&$&&&&$                                     
+                     XX$&&&&&&&&&&&&$Xxxxxxxx$$&&&&&&&&&&&&&&&&$                                    
+                   XXX$&&&&&&&&&&&&Xxxxx+xxxxxX$$$$$&&&&&$&$&&&&$                                   
+                 xXX$&&&&&&&&&&$XX$xxx+xxxxxxxxXX$X$$$$&&&&&&&&&&$                                  
+                XXX$&&&&&&&&&$XXxxXXxxxxxx+++++xX$$$$$$$&&&&&&&&&&                                  
+                X$&&&&&&&&&&$XXxxxX$xxx++++;;++X$$$$$$$$$$$&&&&&&&                                  
+               $$&&&&&&&&&&$$XXxxxxXXx+++++;+x$$XXXxXXXXxxXxXX&&&&$                                 
+               $&&&&&&&&&&&$XXXXxx++xX+;;;++xxxx+xXXxX$$XXxxxXX$&$x+                                
+               $&&&&&&&&&&&$$XXxx+++++xX++x+xxx+xXX$$$$XXxxxxxxx$&X++                               
+               &&&&&&&&&&&&&$XxxxxX$$XXXXXXxxxxxxXXXXXxxx+++x++xx$&x++                              
+               &&&&&&&&&&&&&$$X$$$$XXXxXXXxxxxXXXxx++++++++++++++x$x++                              
+               $&&&&&&&&&&&&&&&$XxxxxxxxXXXxxxxxxx++++++++++++++++xxx++                             
+                 &&&&&&&&&&&&&$XxxXX$XxXXXXXxx++xxx++++++++++++++++x++++                            
+                  $&&&&&&&&&&&XXX$&&$XxxxXXx++++++++++++++++++++++++++++                            
+                   &&&&&&&&&&&$$$&$XxxxxxXX+++;+X$x+xxxx++++++++++++xXX                             
+                    &&&&&&&&&&$$$XXxxxxxxxxxXx+++++xxxxxx++++++++++++x                              
+                     $&&&&&&&&$XXXXxxxxxxxxxxxx++xxxxx++++++++++++++++x                             
+                        &&&&&&&XXxxxxxxxxxXXXXxxxxx+++++++++++++++++++xx                            
+                           &&&&$XxxxxxxxxxXXXXxxx+xxxxxxXx++++++++++++xx                            
+                             $&&XxxxxxxxxXXXxxxxxXXXxxx++++++++++++++xxX$$$XXXXXXXXXXXXXX           
+                              X$&XXxxxxxXXxxxXXXXxxx++++++++++++++++xxX$$$$$$$$$$$$$$$$XXXXX        
+                                $$XXxxxxxXxxx$$Xx++++++++++++++xxxxxxx++++xX$$$$$$$X$X$$$XXXXXX$    
+                                 &$XXXXxxXxxxXxxxx++++++++++xxxxxxxxxxx++;;+++xX$$$$$$$$$$$$$X$XXX  
+                                  &$XXXXXXxxxxxxxxxxxxxx++++xxxxxxxXxxx+;;;;+xx++xX$$$$$$$$$$$$$$$XX
+                                  &&&$XXXXXxXXXxxxxxxxx+++++++xxxXXxxxxx++;;;+++++++X$$$$$$$$$$$$$$X
+                                $&&&&&$XXXXXXXXXXXXXxx+++++x+xxxXXxxxxxxXx+;;;++xxx+++XX$X$$$$$$$$$$
+                             XX$$&&&&&&&$XXXXXXXXXXXxxxxxxxxxxXXXxxxxxxxxXX+;+++xxxxx++++X$$$$$$$$$$
+                           x$$$&&&&&&&&&&$$$$$$$$X$XXxxxxxXXXXXxx+++xxxxxXxXx+;++xxxx+++++x$$X$$$$$$
+                        X$$$&&&&&&&&$$$&&$XXXXX$$$$$XXXXXXXXXxx+++++xxxxxxXXX$xxxxxXxx++++++X$$$$$$$
+                      X$$$$$$$$$$$$$$$$&&&$Xxxxx+xxxXX$XXXxxx+++++++xxxxxxX$$&$x+xxXx+$$XXXx+xX$$$$$
+.                    X$$&&&&$$$$$$$$$$$$$&$$Xxx+++++++++xxXxxxxxxxx++xxxxxX$$X+++xxxx$$$$$$$$$$$$$$$
+ .                 $X$$$$&&&&&&&&&&&$$$$$$$$$Xxxx++++++++++++++++++xxxxxxxX$x++x+xx$$$$$$$$$$$$$$$$$
+                  $$$$$$$$&&&&&&&&&&&&&&&&$$$$XXxxx++++++++++++++++++++xxX$xx++xX$$&$$$$$$$$$$$$$$$$
+                 $$$$$$$$$&&&&&&&&&&&&&&&&&&$$$$XXxx++++++++++++++;;;;+++XxxX$$$$&&&$$$$$$$$$$$$$$$$
+               $$$$$$$$&$&&&&&&&&&&&&&$&&&&&&&&$$XxXxxx+xXXXxxxxxxxXxXXXXXX$$$$$$&&&$$$$$$$$$$$$$$$$
+              X$$$$$&&&&&&&&&&&&&&$&$&&&&&&&&&&&&$$XXXXX$$$$$$$$$$$$$$$$$$$$$$$&&&$$$$$$$$$$$$$$$$$$
+             $$$$$$&&&&&&&&&&&&&&$$$$$$$$$$$$&&&&&&&$$$$$&&$$$$$$$$$$$$$$$$$$&&&&$$$$$$$$$$$$$$$$$$$
+           $$$$$$$$$&&&&&&&&&&&&&&&&$$$$$$$$$$$&&&&&&$$$$$$$$$$$$$$$$$$$$$&&&&&&$$$$$$$$$$$$$$$$$$$$
+          $$$$$$$$$$$$&&&&&&&&&$&&&&&&$$$$$$$$$$$$$&&&&$$$$$$$$$$$$&&$$$&&&&$$$$$$$$$$$$$$$$$$$$$$$$
+         $$$$$$$$$$$$$$$$&&&&&&$&$$$&&&&&&$$$$$$$$$$$&&&&$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+       $$$$$$$$$$$$$$$$$$$&&&$$&&$$$$$$&&&&&&$$$$$$$$$$$$&&&&$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$X
+      $$$$$$$$$$&&&$$$$$$$$&&&&$$&$$$$$$$$&&&&$$$$$$$$$$$$$$&&&&$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+    $$$$&$$$$$$$$&&&&&&$$$$$$&&&&$$&&$$$$$$$&&$&$$$$$$$$$$$$$$&&&&&$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+   $$$$$$$$$$$$$$$$$&&&&&&$$&&&&&&$&&&&$$$$$$$$$$$$$$$$$$$$$$$$$$&&&&$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
