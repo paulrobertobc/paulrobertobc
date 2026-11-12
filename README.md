@@ -1,50 +1,36 @@
                                           
-                                      xxxxXXXXXXXx                                                   @paulrobertobc
-                                    +xXX$&&&&&&&&&&&$$                                               --------------------------------------------------
-                              XXXXXXXX$&&&&&&&&&&&&&&&&$$                                            OS: ............ Windows 11, Debian, Android
-                           XXX$$&&&&&&&&&&&&&&&&&&&&&&&&&XXx                                         Uptime: ....................... 25 años, 4 meses
-                         $$$$&&&&&&&&&&&&$&&&&&&&&&&&&&&&$$$X                                        Host: ............... Universidad Privada del Norte
-                       X$$&&&&&&&&&&&&$$XxxX$$&&&&&&&&&&&$&&&&$                                      Kernel: ............. Estudiante Ing de Sistemas Computacionales
-                     XX$&&&&&&&&&&&&$Xxxxxxxx$$&&&&&&&&&&&&&&&&$                                     IDE: ....................... VS Code, IntelliJ IDE, Visual Studio
+                                     xxxxXXXXXXXx                                                   @paulrobertobc
+                                    +xXX$&&&&&&&&&&&$$                                               -------------------------------------------------------------------
+                              XXXXXXXX$&&&&&&&&&&&&&&&&$$                                            OS: .................................. Windows 11, Debian, Android
+                           XXX$$&&&&&&&&&&&&&&&&&&&&&&&&&XXx                                         Uptime: ......................................... 25 años, 4 meses
+                         $$$$&&&&&&&&&&&&$&&&&&&&&&&&&&&&$$$X                                        Host: .............................. Universidad Privada del Norte
+                       X$$&&&&&&&&&&&&$$XxxX$$&&&&&&&&&&&$&&&&$                                      Kernel: ................ Estudiante Ing de Sistemas Computacionales
+                     XX$&&&&&&&&&&&&$Xxxxxxxx$$&&&&&&&&&&&&&&&&$                                     IDE: ........ VS Code, IntelliJ IDE, Visual Studio, Apache Netbeans
                    XXX$&&&&&&&&&&&&Xxxxx+xxxxxX$$$$$&&&&&$&$&&&&$                                   
                  xXX$&&&&&&&&&&$XX$xxx+xxxxxxxxXX$X$$$$&&&&&&&&&&$                                  
                 XXX$&&&&&&&&&$XXxxXXxxxxxx+++++xX$$$$$$$&&&&&&&&&&                                  
-                X$&&&&&&&&&&$XXxxxX$xxx++++;;++X$$$$$$$$$$$&&&&&&&                                   Languages.Programming: ... C#, JAVA, Python, JavaScript, C++
-               $$&&&&&&&&&&$$XXxxxxXXx+++++;+x$$XXXxXXXXxxXxXX&&&&$                                  Languages.Computer: ...... HTML, CSS, SQL, Docker
-               $&&&&&&&&&&&$XXXXxx++xX+;;;++xxxx+xXXxX$$XXxxxXX$&$x+                                 Languages.Real: ................. Español, (almost)Inglés
+                X$&&&&&&&&&&$XXxxxX$xxx++++;;++X$$$$$$$$$$$&&&&&&&                                   
+               $$&&&&&&&&&&$$XXxxxxXXx+++++;+x$$XXXxXXXXxxXxXX&&&&$                                  
+               $&&&&&&&&&&&$XXXXxx++xX+;;;++xxxx+xXXxX$$XXxxxXX$&$x+                                 
                $&&&&&&&&&&&$$XXxx+++++xX++x+xxx+xXX$$$$XXxxxxxxx$&X++                               
-               &&&&&&&&&&&&&$XxxxxX$$XXXXXXxxxxxxXXXXXxxx+++x++xx$&x++                              
-               &&&&&&&&&&&&&$$X$$$$XXXxXXXxxxxXXXxx++++++++++++++x$x++                              
-               $&&&&&&&&&&&&&&&$XxxxxxxxXXXxxxxxxx++++++++++++++++xxx++                             
+               &&&&&&&&&&&&&$XxxxxX$$XXXXXXxxxxxxXXXXXxxx+++x++xx$&x++                               Languages.Programming: ......... C#, JAVA, Python, JavaScript, C++
+               &&&&&&&&&&&&&$$X$$$$XXXxXXXxxxxXXXxx++++++++++++++x$x++                               Languages.Computer: ....................... HTML, CSS, SQL, Docker
+               $&&&&&&&&&&&&&&&$XxxxxxxxXXXxxxxxxx++++++++++++++++xxx++                              Languages.Real: .......................... Español, (almost)Inglés
                  &&&&&&&&&&&&&$XxxXX$XxXXXXXxx++xxx++++++++++++++++x++++                            
-                  $&&&&&&&&&&&XXX$&&$XxxxXXx++++++++++++++++++++++++++++                             Hobbies.Software: ..... Open Source, Automatización
-                   &&&&&&&&&&&$$$&$XxxxxxXX+++;+X$x+xxxx++++++++++++xXX                              Hobbies.Hardware: ...... Armado de PC, Raspberry Pi
-                    &&&&&&&&&&$$$XXxxxxxxxxxXx+++++xxxxxx++++++++++++x                               Hobbies.Real: ..........Cantar y bailar
+                  $&&&&&&&&&&&XXX$&&$XxxxXXx++++++++++++++++++++++++++++                             
+                   &&&&&&&&&&&$$$&$XxxxxxXX+++;+X$x+xxxx++++++++++++xXX                              
+                    &&&&&&&&&&$$$XXxxxxxxxxxXx+++++xxxxxx++++++++++++x                               
                      $&&&&&&&&$XXXXxxxxxxxxxxxx++xxxxx++++++++++++++++x                             
-                        &&&&&&&XXxxxxxxxxxXXXXxxxxx+++++++++++++++++++xx                            
-                           &&&&$XxxxxxxxxxXXXXxxx+xxxxxxXx++++++++++++xx                            
-                             $&&XxxxxxxxxXXXxxxxxXXXxxx++++++++++++++xxX$$$XXXXXXXXXXXXXX            Contact
-                              X$&XXxxxxxXXxxxXXXXxxx++++++++++++++++xxX$$$$$$$$$$$$$$$$XXXXX         --------------------------------------------------
-                                $$XXxxxxxXxxx$$Xx++++++++++++++xxxxxxx++++xX$$$$$$$X$X$$$XXXXXX$     Email.Personal: ............ paulrobertbc@gmail.com
-                                 &$XXXXxxXxxxXxxxx++++++++++xxxxxxxxxxx++;;+++xX$$$$$$$$$$$$$X$XXX   LinkedIn: ......................... linkedin.com/in/paulrobertobc
-                                  &$XXXXXXxxxxxxxxxxxxxx++++xxxxxxxXxxx+;;;;+xx++xX$$$$$$$$$$$$$$$XX Discord: .............................. tu_usuario
+                        &&&&&&&XXxxxxxxxxxXXXXxxxxx+++++++++++++++++++xx                             Hobbies.Software: ................... Open Source, Automatización
+                           &&&&$XxxxxxxxxxXXXXxxx+xxxxxxXx++++++++++++xx                             Hobbies.Hardware: .................... Armado de PC, Raspberry Pi
+                             $&&XxxxxxxxxXXXxxxxxXXXxxx++++++++++++++xxX$$$XXXXXXXXXXXXXX            Hobbies.Real: ....................................Cantar y bailar
+                              X$&XXxxxxxXXxxxXXXXxxx++++++++++++++++xxX$$$$$$$$$$$$$$$$XXXXX         
+                                $$XXxxxxxXxxx$$Xx++++++++++++++xxxxxxx++++xX$$$$$$$X$X$$$XXXXXX$     
+                                 &$XXXXxxXxxxXxxxx++++++++++xxxxxxxxxxx++;;+++xX$$$$$$$$$$$$$X$XXX   
+                                  &$XXXXXXxxxxxxxxxxxxxx++++xxxxxxxXxxx+;;;;+xx++xX$$$$$$$$$$$$$$$XX 
                                   &&&$XXXXXxXXXxxxxxxxx+++++++xxxXXxxxxx++;;;+++++++X$$$$$$$$$$$$$$X 
-                                $&&&&&$XXXXXXXXXXXXXxx+++++x+xxxXXxxxxxxXx+;;;++xxx+++XX$X$$$$$$$$$$ 
-                             XX$$&&&&&&&$XXXXXXXXXXXxxxxxxxxxxXXXxxxxxxxxXX+;+++xxxxx++++X$$$$$$$$$$
-                           x$$$&&&&&&&&&&$$$$$$$$X$XXxxxxxXXXXXxx+++xxxxxXxXx+;++xxxx+++++x$$X$$$$$$ -----------------------------------------------------
-                        X$$$&&&&&&&&$$$&&$XXXXX$$$$$XXXXXXXXXxx+++++xxxxxxXXX$xxxxxXxx++++++X$$$$$$$
-                      X$$$$$$$$$$$$$$$$&&&$Xxxxx+xxxXX$XXXxxx+++++++xxxxxxX$$&$x+xxXx+$$XXXx+xX$$$$$ -----------------------------------------------------
-.                    X$$&&&&$$$$$$$$$$$$$&$$Xxx+++++++++xxXxxxxxxxx++xxxxxX$$X+++xxxx$$$$$$$$$$$$$$$
- .                 $X$$$$&&&&&&&&&&&$$$$$$$$$Xxxx++++++++++++++++++xxxxxxxX$x++x+xx$$$$$$$$$$$$$$$$$
-                  $$$$$$$$&&&&&&&&&&&&&&&&$$$$XXxxx++++++++++++++++++++xxX$xx++xX$$&$$$$$$$$$$$$$$$$
-                 $$$$$$$$$&&&&&&&&&&&&&&&&&&$$$$XXxx++++++++++++++;;;;+++XxxX$$$$&&&$$$$$$$$$$$$$$$$ -----------------------------------------------------
-               $$$$$$$$&$&&&&&&&&&&&&&$&&&&&&&&$$XxXxxx+xXXXxxxxxxxXxXXXXXX$$$$$$&&&$$$$$$$$$$$$$$$$
-              X$$$$$&&&&&&&&&&&&&&$&$&&&&&&&&&&&&$$XXXXX$$$$$$$$$$$$$$$$$$$$$$$&&&$$$$$$$$$$$$$$$$$$
-             $$$$$$&&&&&&&&&&&&&&$$$$$$$$$$$$&&&&&&&$$$$$&&$$$$$$$$$$$$$$$$$$&&&&$$$$$$$$$$$$$$$$$$$
-           $$$$$$$$$&&&&&&&&&&&&&&&&$$$$$$$$$$$&&&&&&$$$$$$$$$$$$$$$$$$$$$&&&&&&$$$$$$$$$$$$$$$$$$$$
-          $$$$$$$$$$$$&&&&&&&&&$&&&&&&$$$$$$$$$$$$$&&&&$$$$$$$$$$$$&&$$$&&&&$$$$$$$$$$$$$$$$$$$$$$$$ -----------------------------------------------------
-         $$$$$$$$$$$$$$$$&&&&&&$&$$$&&&&&&$$$$$$$$$$$&&&&$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-       $$$$$$$$$$$$$$$$$$$&&&$$&&$$$$$$&&&&&&$$$$$$$$$$$$&&&&$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$X
-      $$$$$$$$$$&&&$$$$$$$$&&&&$$&$$$$$$$$&&&&$$$$$$$$$$$$$$&&&&$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-    $$$$&$$$$$$$$&&&&&&$$$$$$&&&&$$&&$$$$$$$&&$&$$$$$$$$$$$$$$&&&&&$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-   $$$$$$$$$$$$$$$$$&&&&&&$$&&&&&&$&&&&$$$$$$$$$$$$$$$$$$$$$$$$$$&&&&$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ -----------------------------------------------------
+                                $&&&&&$XXXXXXXXXXXXXxx+++++x+xxxXXxxxxxxXx+;;;++xxx+++XX$X$$$$$$$$$$ Contact
+                             XX$$&&&&&&&$XXXXXXXXXXXxxxxxxxxxxXXXxxxxxxxxXX+;+++xxxxx++++X$$$$$$$$$$ ------------------------------------------------------------------
+                           x$$$&&&&&&&&&&$$$$$$$$X$XXxxxxxXXXXXxx+++xxxxxXxXx+;++xxxx+++++x$$X$$$$$$ Email.Personal: ........................... paulrobertbc@gmail.com
+                        X$$$&&&&&&&&$$$&&$XXXXX$$$$$XXXXXXXXXxx+++++xxxxxxXXX$xxxxxXxx++++++X$$$$$$$ LinkedIn: .......................... linkedin.com/in/paulrobertobc
+                      X$$$$$$$$$$$$$$$$&&&$Xxxxx+xxxXX$XXXxxx+++++++xxxxxxX$$&$x+xxXx+$$XXXx+xX$$$$$ Discord: ............................................ paulrobertbc
